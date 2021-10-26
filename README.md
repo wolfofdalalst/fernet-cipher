@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 Or execute this remote bash script
 ```
-wget -O - https://raw.githubusercontent.com/guptaayush19/fernet-cipher/master/scripts/install.sh | sudo bash
+wget -O - https://raw.githubusercontent.com/guptaayush19/fernet-cipher/master/scripts/install.sh | bash
 ```
 
 ## Execution
