@@ -36,5 +36,8 @@ Example use case
 python3 main.py --file README.md --key fernet_key_library/<unique id> --mode encrypt
 ```
 
+## Contribution
+Contributions and improvements are welcome. If you have any suggestions or want to contribute, please feel free to open an issue or submit a pull request
+
 ## License
-This repository falls under MIT License
+This repository falls under MIT License. Feel free to use, share, and modify this package as you see fit.
